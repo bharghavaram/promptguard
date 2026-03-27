@@ -1,3 +1,5 @@
+> **📅 Project Period:** Mar 2025 – May 2025 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # 🛡️ PromptGuard – Prompt Evaluation & Quality Assurance Framework
 
 > **Automated prompt evaluation using LangSmith with LLM-as-judge scoring, A/B testing, and edge case test suites.**
