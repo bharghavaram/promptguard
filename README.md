@@ -16,7 +16,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/promptguard/main/docs/images/demo.svg" alt="promptguard demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 Teams deploy prompts to production without systematic testing — a prompt change that improves performance for one use case silently breaks three others. Evaluating LLM outputs requires expensive human review and lacks reproducibility. PromptGuard provides automated prompt evaluation: A/B testing infrastructure, LangSmith-integrated evaluation pipelines, multi-model comparison (GPT-4o vs Claude vs Mistral), 500+ edge case test suites, and regression detection — reducing new feature onboarding from 3 weeks to 4 days.
 
